@@ -1195,12 +1195,7 @@ a.play-btn:hover svg .stroke-dotted {
   background-color: #3b5999;
   border-color: #3b5999;
 }
-.twitter,
-.twitter-hvr:hover,
-.twitter-hvr:focus {
-  background-color: #55acee;
-  border-color: #55acee;
-}
+
 .pinterest,
 .pinterest-hvr:hover,
 .pinterest-hvr:focus {
