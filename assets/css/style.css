@@ -118,7 +118,7 @@ Version: 1.0.0
 :root {
   --color1: #ef4e59;
   --color2: #0a032a;
-  --color3: #170f3e;
+  --color3: #ec6d3f;
   --color4: #0f0834;
   --color5: #0a0521;
   --color6: #ff76d5;
@@ -1322,7 +1322,7 @@ nav ul ul li {
 }
 nav ul ul li a {
   display: block;
-  padding: 7.5px 2rem 7.5px 0;
+  padding: 7.5px 1rem 7.5px 0;
   position: relative;
 }
 nav ul ul li.menu-item-has-children > a:before {
@@ -1600,7 +1600,7 @@ header.style2 {
   margin-left: 1.5625rem;
 }
 .topbar + .logo-menu-wrap {
-  margin-top: 1.25rem;
+  margin-top: 0.25rem;
 }
 .header-right-btns .menu-btn2 {
   margin-left: 0.9375rem;
@@ -7172,7 +7172,7 @@ hr {
 }
 
 .logo-menu-wrap .logo .logoimg {
-  width: 9.5rem;
+  width: 7.5rem;
   height: auto;
 }
 .rounded-1 {
